@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+.banner{
+    height: 200px;
+    background-color: rgb(50, 220, 16);
+    text-align: center;
+    color: white;
+}
+.service{
+    height: 300px;
+    display: flex;
+
+}
+.service1{
+    width: 33.3%;
+    background-color: rgb(161, 10, 121);
+    text-align: center;
+    color: white;
+
+}
+.service2{
+    width: 33.3%;
+    background-color: rgb(31, 44, 165);
+    text-align: center;
+    color: white;
+
+}
+.service3{
+    width: 33.3%;
+    background-color: rgb(172, 135, 12);
+    text-align: center;
+    color: white;
+
+}
+footer{
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+
+}
